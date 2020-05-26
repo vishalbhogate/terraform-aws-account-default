@@ -6,3 +6,4 @@ output "account_id" {
 output "email" {
   value       = var.email
   description = "Email of account"
+}
